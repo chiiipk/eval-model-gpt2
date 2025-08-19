@@ -1,0 +1,12 @@
+torch 
+transformers 
+datasets 
+accelerate 
+peft
+trl
+numba
+wandb
+deepspeed
+rouge-score
+editdistance
+modal

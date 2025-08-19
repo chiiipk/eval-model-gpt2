@@ -1,0 +1,12 @@
+model_hub/
+*.pyc
+outputs/
+wandb/
+data/
+venv/
+ckpt/
+ckpt_2/
+gen/
+modal/
+ans/
+scripts/eval_stage2
