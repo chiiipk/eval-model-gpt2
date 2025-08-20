@@ -25,7 +25,7 @@ def prepare_dataset_main(args, tokenizer):
     data["test"] = PromptDataset(
         args, 
         tokenizer, 
-        "valid", 
+        "train", 
         data_path=args.data_dir, 
         num=args.dev_num
     )
